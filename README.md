@@ -1,4 +1,4 @@
-# Plain vs Vectorized Matrix-Matrix Multiplication in Python
+# Plain vs Vectorized Matrix-Matrix Multiplication (Python vs PyTorch)
 ### Cole Chiodo
 
 
